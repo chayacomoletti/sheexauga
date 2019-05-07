@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaiwiekeij.weirdmeetup.com/sitemap.xml
